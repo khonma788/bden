@@ -76,9 +76,9 @@ Windowsで動作するAPIが必要です、[こちら](https://bden.siptables.ne
 ## CDN からの読み込み
 
 ### JS・CSS（バージョン付き）
-記載時の最新バージョンであり、常に最上位バージョンがより問題が起き難いとご理解ください
+README.md記載時のバージョンであり、ダウンロードリンクに紐づく最上位バージョンこそがより安定稼動します
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/khonma788/bden@v1.0.4/style.css" type="text/css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/khonma788/bden@v1.1.1/style.css" type="text/css">
 <script src="https://cdn.jsdelivr.net/gh/khonma788/bden@v1.1.0/bden.min.js"></script>
 ```
 ## モジュール管理
