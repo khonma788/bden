@@ -1,12 +1,12 @@
 ## 概要
-agent.js は、電話機表示など、UI機能を簡単に導入できるJavaScriptライブラリです、JS関数単体で動作し、CSSと画像は固定URLを参照することで、運用サイト側の管理と干渉せずに使用できます
+bden.min.js は、電話機表示など、UI機能を簡単に導入できるJavaScriptライブラリです、JS関数単体で動作し、CSSと画像は固定URLを参照することで、運用サイト側の管理と干渉せずに使用できます
 
 ## 使い方
 ```html
 <HTML>
 <HEAD>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/khonma788/bden@v1.0.4/style.css" type="text/css">
-<script src="https://cdn.jsdelivr.net/gh/khonma788/bden@v1.0.5/agent.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/khonma788/bden@v1.1.0/bden.min.js"></script>
 <script>
 agent3s('5002:');
 </script>
@@ -78,7 +78,7 @@ Windowsで動作するAPIが必要です、[こちら](https://bden.siptables.ne
 記載時の最新バージョンであり、常に最上位バージョンがより問題が起き難いとご理解ください
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/khonma788/bden@v1.0.4/style.css" type="text/css">
-<script src="https://cdn.jsdelivr.net/gh/khonma788/bden@v1.0.5/agent.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/khonma788/bden@v1.1.0/bden.min.js"></script>
 ```
 ## モジュール管理
 [GitHub bden](https://github.com/khonma788/bden)
